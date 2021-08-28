@@ -1,0 +1,63 @@
+import Vue from "vue"
+import {
+  Button,
+  Col,
+  Row,
+  ShareSheet,
+  Field,
+  Cell,
+  CellGroup,
+  Form,
+  Toast,
+  Dialog,
+  Image,
+  Icon,
+  Overlay,
+  Loading,
+  Tab,
+  Tabs,
+  DropdownMenu,
+  DropdownItem,
+  PullRefresh,
+  List,
+  NavBar,
+  Search,
+  Card,
+  Tag,
+  Sticky,
+  TreeSelect,
+  Popup,
+  Picker,
+  DatetimePicker
+} from "vant"
+
+Vue.use(DatetimePicker)
+Vue.use(Picker)
+Vue.use(Popup)
+Vue.use(TreeSelect)
+Vue.use(Tab)
+Vue.use(Tabs)
+Vue.use(Loading)
+Vue.use(Icon)
+Vue.use(Overlay)
+Vue.use(Dialog)
+Vue.use(Form)
+Vue.use(Cell)
+Vue.use(CellGroup)
+Vue.use(Field)
+Vue.use(ShareSheet)
+Vue.use(Col)
+Vue.use(Row)
+Vue.use(Button)
+Vue.use(Image)
+Vue.use(DropdownMenu)
+Vue.use(DropdownItem)
+Vue.use(PullRefresh)
+Vue.use(List)
+Vue.use(NavBar)
+Vue.use(Search)
+Vue.use(Sticky)
+Vue.use(Tag)
+Vue.use(Card)
+Vue.use(NavBar)
+Vue.use(Toast)

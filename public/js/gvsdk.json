@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "keyName": "fujian_test",
+    "name": "福建",
+    "appId": "com.TDH.uTruck2",
+    "appSecurity": "e6a185ca8cff46d99222be72ce2a435483b6e8be01b241a4b37fc2455d34ee56",
+    "enterpriseSenderCode": "350583a67ca4c3493f4c",
+    "environment": "debug"
+  },
+  {
+    "id": 2,
+    "keyName": "fujian",
+    "name": "福建",
+    "appId": "com.TDH.uTruck2",
+    "appSecurity": "c5376f1c86c84012ab4d3ecf9777aeeef72ad04511054136a451b8b02797dca9",
+    "enterpriseSenderCode": "350583a67ca4c3493f4c",
+    "environment": "release"
+  },
+  {
+    "id": 3,
+    "keyName": "shanghai_test",
+    "name": "上海",
+    "appId": "com.TDH.uTruck2",
+    "appSecurity": "256cd4c0a5a045088b9cb67105221ccc0cc7cca5c3a947d982c82c11f84feaea",
+    "enterpriseSenderCode": "310115020523",
+    "environment": "debug"
+  },
+  {
+    "id": 4,
+    "keyName": "shanghai",
+    "name": "上海",
+    "appId": "com.TDH.uTruck2",
+    "appSecurity": "",
+    "enterpriseSenderCode": "",
+    "environment": "release"
+  },
+  {
+    "id": 5,
+    "keyName": "yunnan_test",
+    "name": "云南",
+    "appId": "com.TDH.uTruck2",
+    "appSecurity": "b259d9e048a27277ffa1b285f805b36475f8bc3bcb959f65d2b8b705200a4eb7",
+    "enterpriseSenderCode": "53170212",
+    "environment": "debug"
+  },
+  {
+    "id": 6,
+    "keyName": "yunnan",
+    "name": "云南",
+    "appId": "com.TDH.uTruck2",
+    "appSecurity": "",
+    "enterpriseSenderCode": "",
+    "environment": "release"
+  }
+]

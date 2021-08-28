@@ -1,0 +1,62 @@
+
+
+.van-field__error-message {
+  text-align: center !important;
+}
+
+.van-field--error .van-field__control,
+.van-field--error .van-field__control::placeholder {
+  color: #9697A6 !important;
+  -webkit-text-fill-color: currentColor;
+}
+
+.van-field--error .van-field__control,
+.van-field--error .van-field__control::-webkit-input-placeholder {
+  color: #9697A6 !important;
+  -webkit-text-fill-color: currentColor;
+}
+
+.van-icon-arrow-left::before {
+  color: #bbbbbb;
+}
+
+// 导航栏
+.van-nav-bar {
+  background: #FFFFFF;
+  height: 40Px;
+  line-height: 40Px;
+
+  .van-icon-arrow-left::before,
+  .van-nav-bar__title {
+    color: #222222;
+  }
+}
+
+// TreeSelect 分类选择
+.van-dropdown-item__content {
+  max-height: 100% !important;
+}
+
+// 菜单选中样式
+.van-icon-success::before {
+  content: '';
+}
+
+.van-dropdown-menu__item .van-dropdown-menu__title {
+  color: #1989fa;
+}
+
+.van-dropdown-menu__bar--opened .van-dropdown-menu__title--active {
+  color: #323233 !important;
+}
+
+.van-nav-bar__title {
+  color: #222222;
+  font-size: 18px;
+}
+.van-nav-bar__left {
+  i {
+    color: #222222;
+    font-size: 18px;
+  }
+}

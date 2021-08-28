@@ -1,0 +1,20 @@
+.activity-dialog-enter, .activity-dialog-leave-to {
+    //过渡的进入开始的状态，离开过渡的结束状态
+    opacity: 0;
+    position: relative;
+    top: -10px;
+}
+.activity-dialog-enter-active, .activity-dialog-leave-active {
+  //过渡进入生效时的状态，过渡的离开生效时的状态
+  transition: all 0.3s;
+}
+.activity-dialog-enter-to, .activity-dialog-leave {
+  //过渡的进入结束状态，过渡的离开开始状态
+    opacity: 1;
+    position: relative;
+    top: 0;
+}
+  
+
+  
+  
