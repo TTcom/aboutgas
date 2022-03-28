@@ -1,9 +1,3 @@
-/*
- * @Author: zhangjing
- * @Date: 2020-08-10 17:27:49
- * @Description:
- * @FilePath: \gas-h5\.prettierrc.js
- */
 module.exports = {
   printWidth: 200, //单行最多的字符，默认80
   tabWidth: 2, // tab缩进大小,默认为2
